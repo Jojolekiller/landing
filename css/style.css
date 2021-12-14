@@ -1,0 +1,32 @@
+@import url(components/banner.css);
+@import url(components/btn-blue.css);
+@import url(components/card-white.css);
+@import url(components/footer.css);
+@import url(components/list-inline.css);
+body{
+    background: rgb(240,240,240);
+    color: rgb(30,30,30);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    font-weight: lighter;
+}
+h1 {
+    font-weight: bold;
+}
+h2 {
+    font-weight: bold;
+    font-size: 24px;
+    color: #6A71E1;
+}
+a {
+    color: #6A71E1;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+}
+
+#features {
+    padding: 64px 0px;
+  }
