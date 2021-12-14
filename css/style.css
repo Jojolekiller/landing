@@ -4,7 +4,7 @@
 @import url(components/footer.css);
 @import url(components/list-inline.css);
 body{
-    background: rgb(240,240,240);
+    background: rgba(49, 61, 228, 0.6);
     color: rgb(30,30,30);
     font-size: 18px;
     font-family: Lato, sans-serif;
